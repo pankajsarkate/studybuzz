@@ -5,4 +5,4 @@ def func(name):
 
 # call function
 if __name__ =="__main__":
-        print(func("RoCkY"))
+        print(func("Ronny"))
